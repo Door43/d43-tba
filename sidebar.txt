@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tba:home|Door43 (tba)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tba|d43-tba repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tba/archive/master.zip|d43-tba.zip]]
+
+**Recent Changes**
+{{changes>ns = tba}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tba|Ethnologue data]]
+
